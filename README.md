@@ -16,7 +16,7 @@ Randomizer-like plugins.
 
 ## Usage
 
-Install the plugin.  Requires [dynhooks][]
+Install the plugin.  Requires [dynhooks][] and [tf2wearables][].
 
 Implement a global forward callback on `TF2_OnReplaceItem`:
 
@@ -28,3 +28,4 @@ public Action TF2_OnReplaceItem(int client, int item) {
 ```
 
 [dynhooks]: https://forums.alliedmods.net/showpost.php?p=2588686&postcount=589
+[tf2wearables]: https://github.com/nosoop/sourcemod-tf2wearables/releases
