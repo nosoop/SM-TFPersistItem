@@ -1,7 +1,12 @@
 # TF2 Persist Item
 
 Provides some basic functionality to preserve currently equipped, non-loadout items.
-Probably should be gutting it for your own setups.
+
+This is provided as a proof-of-concept; developers should probably should be gutting it for
+their own projects.  (For a more complete implementation, see how it's integrated in my
+[Custom Weapons X][] project.)
+
+[Custom Weapons X]: https://github.com/nosoop/SM-TFCustomWeaponsX
 
 ## Possibilities
 
